@@ -1,6 +1,6 @@
 //
 //  OKLiteV1.m
-//  OneKeyWallet
+//  UnionKeyWallet
 //
 //  Created by linleiqin on 2023/6/27.
 //
@@ -543,7 +543,7 @@
       return;
     }
     if (weakSelf.version == OKNFCLiteVersionV1) {
-      /// https://onekeyhq.atlassian.net/wiki/spaces/ONEKEY/pages/10551684/Lite
+      /// https://unionkeyhq.atlassian.net/wiki/spaces/UNIONKEY/pages/10551684/Lite
       mnc = responseData.toHexString;
     } else {
       mnc = parseRespon;

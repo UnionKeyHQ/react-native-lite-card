@@ -86,7 +86,7 @@ class OKLiteManager(private val context: ReactApplicationContext) :
                             val startRequest = OneKeyLiteCard.initRequest(isoDep)
                             val dataMap = Arguments.createMap().apply {
                                 putInt("code", -1)
-                                putString("type", "OneKey_Lite")
+                                putString("type", "UnionKey_Lite")
                                 putString("serialNum", startRequest.serialNum)
                                 putBoolean("isNewCard", startRequest.isNewCard)
                                 putBoolean("hasBackup", startRequest.hasBackup)

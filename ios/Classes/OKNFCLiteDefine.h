@@ -1,6 +1,6 @@
 //
 //  OKNFCLiteDefine.m
-//  OneKeyWallet
+//  UnionKeyWallet
 //
 //  Created by linleiqin on 2023/6/27.
 //

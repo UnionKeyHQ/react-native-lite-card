@@ -1,5 +1,5 @@
 {
-  "name": "@onekeyfe/react-native-lite-card",
+  "name": "@unionkeyfe/react-native-lite-card",
   "version": "1.1.0",
   "description": "lite card",
   "main": "lib/commonjs/index",
@@ -42,14 +42,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OneKeyHQ/react-native-lite-card.git"
+    "url": "git+https://github.com/UnionKeyHQ/react-native-lite-card.git"
   },
-  "author": "OneKeyHQ <hi@onekey.so> (https://github.com/OneKeyHQ)",
+  "author": "UnionKeyHQ <UnionKeyHQ> (https://github.com/UnionKeyHQ)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/OneKeyHQ/react-native-lite-card/issues"
+    "url": "https://github.com/UnionKeyHQ/react-native-lite-card/issues"
   },
-  "homepage": "https://github.com/OneKeyHQ/react-native-lite-card#readme",
+  "homepage": "https://github.com/UnionKeyHQ/react-native-lite-card#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
